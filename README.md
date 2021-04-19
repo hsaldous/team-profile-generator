@@ -4,7 +4,7 @@
 
 Here is a quick reference: [Video Demonstration](https://drive.google.com/file/d/1C36n406V22ttwUFfO2VJE4MO8l2EgHsf/view?usp=sharing).
 
-![](team-profile-generator/assets/team-profile.gif)
+![Gif](team-profile-generator/assets/team-profile.gif)
 
 ## Installation
 
