@@ -4,9 +4,13 @@
 
 Here is a quick reference: [Video Demonstration](https://drive.google.com/file/d/1C36n406V22ttwUFfO2VJE4MO8l2EgHsf/view?usp=sharing).
 
+![](team-profile-generator/assets/team-profile.gif)
+
 ## Installation
 
 Download the repo and run `npm install` from repo. Then use `node app.js` to start the application to generate a team profile.
+
+
 
 ## Your Task
 
